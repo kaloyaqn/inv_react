@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* kaloqn */
+
+th {
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+td {
+  vertical-align: middle;
+  font-weight: normal;
+}
